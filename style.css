@@ -3,3 +3,7 @@ nav{
     height: 10vh;
     width: 100vw;
 }
+div{
+    background-color: red;
+    font-family: 'Courier New', Courier, monospace;
+}
